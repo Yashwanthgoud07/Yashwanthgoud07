@@ -1,7 +1,7 @@
 # 💫 About Me:
 Aspiring SOC Analyst L1 | SOC Analyst Intern @CFSS | Google cybersecurity certified | Aspiring Cybersecurity Analyst | Blue teamer | SIEM | Passionate About Digital Protection | Seeking Dynamic Opportunities
 
-![Profile Image](https://link-to-your-image.com/image.jpg)
+![Profile Image](https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQazB3eOQyvId4h7ejfd_2cIG9WUCjo-mhY4WnSYwBFhg&s)
 
 ## 🌐 Socials:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/https://www.linkedin.com/in/byashwanth07-soc-analyst-l1/) 
