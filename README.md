@@ -1,30 +1,62 @@
-# 💫 About Me:
-Aspiring SOC Analyst L1 | SOC Analyst Intern @CFSS | Google cybersecurity certified | Aspiring Cybersecurity Analyst | Blue teamer | SIEM | Passionate About Digital Protection | Seeking Dynamic Opportunities
+# 💫 About Me
+
+Aspiring SOC Analyst L1 | SOC Analyst Intern @CFSS | Google Cybersecurity Certified | Aspiring Cybersecurity Analyst | Blue Teamer | SIEM Enthusiast | Passionate About Digital Protection | Seeking Dynamic Opportunities
 
 ![Profile Image](https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQazB3eOQyvId4h7ejfd_2cIG9WUCjo-mhY4WnSYwBFhg&s)
 
-## 🌐 Socials:
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/https://www.linkedin.com/in/byashwanth07-soc-analyst-l1/) 
+## 🌐 Socials
 
-# 💻 Tech Stack:
-![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) ![MySQL](https://img.shields.io/badge/mysql-4479A1.svg?style=for-the-badge&logo=mysql&logoColor=white) ![Oracle](https://img.shields.io/badge/Oracle-F80000?style=for-the-badge&logo=oracle&logoColor=white) ![Anaconda](https://img.shields.io/badge/Anaconda-%2344A833.svg?style=for-the-badge&logo=anaconda&logoColor=white) ![Django](https://img.shields.io/badge/django-%23092E20.svg?style=for-the-badge&logo=django&logoColor=white) ![Matplotlib](https://img.shields.io/badge/Matplotlib-%23ffffff.svg?style=for-the-badge&logo=Matplotlib&logoColor=black) ![NumPy](https://img.shields.io/badge/numpy-%23013243.svg?style=for-the-badge&logo=numpy&logoColor=white) ![Pandas](https://img.shields.io/badge/pandas-%23150458.svg?style=for-the-badge&logo=pandas&logoColor=white) ![Scipy](https://img.shields.io/badge/SciPy-%230C55A5.svg?style=for-the-badge&logo=scipy&logoColor=%white) ![scikit-learn](https://img.shields.io/badge/scikit--learn-%23F7931E.svg?style=for-the-badge&logo=scikit-learn&logoColor=white) ![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white) ![Splunk](https://img.shields.io/badge/splunk-%23000000.svg?style=for-the-badge&logo=splunk&logoColor=white) ![MySQL](https://img.shields.io/badge/mysql-4479A1.svg?style=for-the-badge&logo=mysql&logoColor=white)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/byashwanth07-soc-analyst-l1/)
 
-# 📊 GitHub Stats:
-![](https://github-readme-stats.vercel.app/api?username=Yashwanthgoud&theme=dark&hide_border=true&include_all_commits=true&count_private=true)<br/>
-![](https://github-readme-streak-stats.herokuapp.com/?user=Yashwanthgoud&theme=dark&hide_border=true)<br/>
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=Yashwanthgoud&theme=dark&hide_border=true&include_all_commits=true&count_private=true&layout=compact)
+## 💻 Skills
 
-## 🏆 GitHub Trophies
-![](https://github-profile-trophy.vercel.app/?username=Yashwanthgoud&theme=nord&no-frame=true&no-bg=false&margin-w=4)
+![Python](https://img.shields.io/badge/Python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
+![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
+![Oracle](https://img.shields.io/badge/Oracle-F80000?style=for-the-badge&logo=oracle&logoColor=white)
+![Anaconda](https://img.shields.io/badge/Anaconda-44A833?style=for-the-badge&logo=anaconda&logoColor=white)
+![Django](https://img.shields.io/badge/Django-092E20?style=for-the-badge&logo=django&logoColor=white)
+![Matplotlib](https://img.shields.io/badge/Matplotlib-ffffff?style=for-the-badge&logo=Matplotlib&logoColor=black)
+![NumPy](https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white)
+![Pandas](https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white)
+![SciPy](https://img.shields.io/badge/SciPy-0C55A5?style=for-the-badge&logo=scipy&logoColor=white)
+![scikit-learn](https://img.shields.io/badge/scikit--learn-F7931E?style=for-the-badge&logo=scikit-learn&logoColor=white)
+![GitHub](https://img.shields.io/badge/GitHub-121011?style=for-the-badge&logo=github&logoColor=white)
+![Splunk](https://img.shields.io/badge/Splunk-000000?style=for-the-badge&logo=splunk&logoColor=white)
+![IBM QRadar](https://img.shields.io/badge/IBM%20QRadar-1F70C1?style=for-the-badge&logo=ibm&logoColor=white
 
-### ✍️ Random Dev Quote
-![](https://quotes-github-readme.vercel.app/api?type=vetical&theme=dark)
+)
+![SIEM Tools](https://img.shields.io/badge/SIEM%20Tools-FF6F00?style=for-the-badge&logoColor=white)
+![Security Operations Center](https://img.shields.io/badge/Security%20Operations%20Center-FF0000?style=for-the-badge&logoColor=white
 
-### 🔝 Top Contributed Repo
-![](https://github-contributor-stats.vercel.app/api?username=Yashwanthgoud&limit=5&theme=dark&combine_all_yearly_contributions=true)
+)
+![Cybersecurity](https://img.shields.io/badge/Cybersecurity-007ACC?style=for-the-badge&logoColor=white)
+
+## 🚀 Projects and Internships
+
+### 1. [Modeling and Predicting of Cyberhacking Breaches (2023)](https://github.com/Yashwanthgoud/Project1)
+**Description:** Developed a model to predict cybersecurity breaches using various machine learning techniques. The project involved data collection, preprocessing, model training, and evaluation. Key technologies used include Python, scikit-learn, and pandas.
+
+### 2. Worked as a Security Operations Center Analyst at Cyber Forensic and Security Solutions
+**Description:** Conducted real-time monitoring and analysis of security events. Utilized SIEM tools to identify and respond to potential security threats. Gained hands-on experience in incident response and threat hunting.
+
+## 📜 Certifications
+
+- **Foundations Of Cybersecurity (2024)**
+- **Play It Safe: Manage Security Risks (2024)**
+- **Connect And Protect: Network And Network Security (2023)**
+- **IBM Introduction To Cybersecurity (2023)**
+- **Tools Of The Trade: Linux And SQL (2024)**
+- **Cybersecurity Analyst Job Simulation - Identity and Access Management (2024)**
+- **Introduction To Cybersecurity (2023)**
+- **Nano Tips For Building A Career In Cybersecurity (2024)**
+- **Cybersecurity Job Simulation (Phishing) (2024)**
 
 ---
+
 [![](https://visitcount.itsvg.in/api?id=Yashwanthgoud&icon=5&color=12)](https://visitcount.itsvg.in)
+
+---
+
 
 
 
