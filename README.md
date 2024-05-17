@@ -2,7 +2,7 @@
 
 Aspiring SOC Analyst L1 | SOC Analyst Intern @CFSS | Google Cybersecurity Certified | Aspiring Cybersecurity Analyst | Blue Teamer | SIEM Enthusiast | Passionate About Digital Protection | Seeking Dynamic Opportunities
 
-![Profile Image](https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQazB3eOQyvId4h7ejfd_2cIG9WUCjo-mhY4WnSYwBFhg&s)
+![Profile Image](https://media4.giphy.com/media/v1.Y2lkPTc5MGI3NjExMmxxNjYybmVtMWVibG1pbXo4aDNid241OXFiNDdpb2Fqamx1aHM2bCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/RDZo7znAdn2u7sAcWH/giphy.gif)
 
 ## 🌐 Socials
 
