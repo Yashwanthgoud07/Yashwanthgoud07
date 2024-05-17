@@ -1,4 +1,4 @@
-# 💫 About Me
+#  About Me
 
 Aspiring SOC Analyst L1 | SOC Analyst Intern @CFSS | Google Cybersecurity Certified | Aspiring Cybersecurity Analyst | Blue Teamer | SIEM Enthusiast | Passionate About Digital Protection | Seeking Dynamic Opportunities
 
