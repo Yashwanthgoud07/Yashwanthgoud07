@@ -22,13 +22,9 @@ Aspiring SOC Analyst L1 | SOC Analyst Intern @CFSS | Google Cybersecurity Certif
 ![scikit-learn](https://img.shields.io/badge/scikit--learn-F7931E?style=for-the-badge&logo=scikit-learn&logoColor=white)
 ![GitHub](https://img.shields.io/badge/GitHub-121011?style=for-the-badge&logo=github&logoColor=white)
 ![Splunk](https://img.shields.io/badge/Splunk-000000?style=for-the-badge&logo=splunk&logoColor=white)
-![IBM QRadar](https://img.shields.io/badge/IBM%20QRadar-1F70C1?style=for-the-badge&logo=ibm&logoColor=white
-
-)
+![IBM QRadar](https://img.shields.io/badge/IBM%20QRadar-1F70C1?style=for-the-badge&logo=ibm&logoColor=white)
 ![SIEM Tools](https://img.shields.io/badge/SIEM%20Tools-FF6F00?style=for-the-badge&logoColor=white)
-![Security Operations Center](https://img.shields.io/badge/Security%20Operations%20Center-FF0000?style=for-the-badge&logoColor=white
-
-)
+![Security Operations Center](https://img.shields.io/badge/Security%20Operations%20Center-FF0000?style=for-the-badge&logoColor=white)
 ![Cybersecurity](https://img.shields.io/badge/Cybersecurity-007ACC?style=for-the-badge&logoColor=white)
 
 ## 🚀 Projects and Internships
