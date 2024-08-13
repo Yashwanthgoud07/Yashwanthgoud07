@@ -1,6 +1,6 @@
 #  About Me
 
-Oracle cloud Infrastructure| Linux| Aspiring SOC Analyst L1 | SOC Analyst Intern @CFSS | Google Cybersecurity Certified | Aspiring Cybersecurity Analyst | Blue Teamer | SIEM Enthusiast | Passionate About Digital Protection | Seeking Dynamic Opportunities
+Oracle cloud Infrastructure | Linux | Aspiring SOC Analyst L1 | SOC Analyst Intern @CFSS | Google Cybersecurity Certified | Aspiring Cybersecurity Analyst | Blue Teamer | SIEM Enthusiast | Passionate About Digital Protection | Seeking Dynamic Opportunities
 
 ![Profile Image](https://media4.giphy.com/media/v1.Y2lkPTc5MGI3NjExMmxxNjYybmVtMWVibG1pbXo4aDNid241OXFiNDdpb2Fqamx1aHM2bCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/RDZo7znAdn2u7sAcWH/giphy.gif)
 
@@ -18,7 +18,7 @@ Oracle cloud Infrastructure| Linux| Aspiring SOC Analyst L1 | SOC Analyst Intern
 ![Matplotlib](https://img.shields.io/badge/Matplotlib-ffffff?style=for-the-badge&logo=Matplotlib&logoColor=black)
 ![NumPy](https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white)
 ![Pandas](https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white)
-![GitHub](https://img.shields.io/badge/GitHub-121011?style=for-the-badge&logo=github&logoColor=white)
+![Linux ](https://img.shields.io/badge/Linux-121011?style=for-the-badge&logo=Linux&logoColor=white)
 ![SIEM Tools](https://img.shields.io/badge/SIEM%20Tools-FF6F00?style=for-the-badge&logoColor=white)
 ![Security Operations Center](https://img.shields.io/badge/Security%20Operations%20Center-FF0000?style=for-the-badge&logoColor=white)
 ![Cybersecurity](https://img.shields.io/badge/Cybersecurity-007ACC?style=for-the-badge&logoColor=white)
@@ -44,7 +44,7 @@ Oracle cloud Infrastructure| Linux| Aspiring SOC Analyst L1 | SOC Analyst Intern
 - **Nano Tips For Building A Career In Cybersecurity (2024)**
 - **Cybersecurity Job Simulation (Phishing) (2024)**
 - ** Oracle cloud infrastructure fundamentals
-- ** Linux for cloud Emgineers.
+- ** Linux for cloud Engineers.
 ---
 
 [![](https://visitcount.itsvg.in/api?id=Yashwanthgoud&icon=5&color=12)](https://visitcount.itsvg.in)
