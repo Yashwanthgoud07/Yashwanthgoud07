@@ -2,7 +2,7 @@
 
 Oracle cloud Infrastructure | Linux | Aspiring SOC Analyst L1 | SOC Analyst Intern @CFSS | Google Cybersecurity Certified | Aspiring Cybersecurity Analyst | Blue Teamer | SIEM Enthusiast | Passionate About Digital Protection | Seeking Dynamic Opportunities
 
-![Profile Image](https://media4.giphy.com/media/v1.Y2lkPTc5MGI3NjExMmxxNjYybmVtMWVibG1pbXo4aDNid241OXFiNDdpb2Fqamx1aHM2bCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/RDZo7znAdn2u7sAcWH/giphy.gif)
+![Profile Image](https://www.google.com/url?sa=i&url=https%3A%2F%2Fes.pinterest.com%2Fpin%2F974818281831568980%2F&psig=AOvVaw1efPhBaqkUNqus4M4ac64P&ust=1723631240046000&source=images&cd=vfe&opi=89978449&ved=0CBMQjRxqGAoTCMDk5fLg8YcDFQAAAAAdAAAAABCWAQ)
 
 ## 🌐 Socials
 
