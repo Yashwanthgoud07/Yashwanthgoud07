@@ -1,6 +1,6 @@
 #  About Me
 
-Oracle cloud Infrastructure | Linux | Aspiring SOC Analyst L1 | SOC Analyst Intern @CFSS | Google Cybersecurity Certified | Aspiring Cybersecurity Analyst | Blue Teamer | SIEM Enthusiast | Passionate About Digital Protection | Seeking Dynamic Opportunities
+OCI Engineer , Cloudserv systems| Linux | Terraform | | Ansible | OCI Certified | Multicloud | AI|  Volunteer All India Oracle Users Group|
 
 ![Profile Image](https://i.pinimg.com/originals/6d/b5/e8/6db5e806a108008a2c0845a8df31985d.gif)
 
@@ -23,24 +23,16 @@ Oracle cloud Infrastructure | Linux | Aspiring SOC Analyst L1 | SOC Analyst Inte
 ![Security Operations Center](https://img.shields.io/badge/Security%20Operations%20Center-FF0000?style=for-the-badge&logoColor=white)
 ![Cybersecurity](https://img.shields.io/badge/Cybersecurity-007ACC?style=for-the-badge&logoColor=white)
 
-## 🚀 Projects and Internships
 
-### 1. [Modeling and Predicting of Cyberhacking Breaches (2023)](https://github.com/Yashwanthgoud/Project1)
-**Description:** Developed a model to predict cybersecurity breaches using various machine learning techniques. The project involved data collection, preprocessing, model training, and evaluation. Key technologies used include Python, scikit-learn, and pandas.
-
-### 2. Worked as a Security Operations Center Analyst at Cyber Forensic and Security Solutions
-**Description:** Conducted real-time monitoring and analysis of security events. Utilized SIEM tools to identify and respond to potential security threats. Gained hands-on experience in incident response and threat hunting.
-### 3. [Comparison of Machine learning algorithms for predicitng crime hotspots (2024)](https://github.com/Yashwanthgoud/Project2)
-**Description:** Compared various machine learning algorithms for prediction of crime hotspots.
 ## 📜 Certifications
 
-- **Foundations Of Cybersecurity (2024)**
-- **Play It Safe: Manage Security Risks (2024)**
-- **Connect And Protect: Network And Network Security (2023)**
-- **IBM Introduction To Cybersecurity (2023)**
-- **Tools Of The Trade: Linux And SQL (2024)**
-- **Cybersecurity Analyst Job Simulation - Identity and Access Management (2024)**
-- **Introduction To Cybersecurity (2023)**
+- **Oracle Cloud Infrastructure Foundations Associate**
+- **Oracle Cloud Infrastructure AI Foundations Associate**
+- **Oracle Cloud Inrastructure Architect Associate**
+- **Oracle Cloud Infrastructure Migrations Architect Professional**
+- **Oracle Cloud Infrastructure Multicloud Professional**
+- **Oracle Autonomous Database Cloud 2025 Certified Professional**
+- **Oracle Data Platform 2025 Certified Foundations Associate**
 - **Nano Tips For Building A Career In Cybersecurity (2024)**
 - **Cybersecurity Job Simulation (Phishing) (2024)**
 - ** Oracle cloud infrastructure fundamentals
