@@ -13,11 +13,9 @@ OCI Engineer , Cloudserv systems| Linux | Terraform | | Ansible | OCI Certified 
 ![Oracle Cloud Infrastructure](https://img.shields.io/badge/Oraclecloudinfrastructure-F80000?style=for-the-badge&logo=oraclecloudinfrastructure&logoColor=white)
 ![Artificialintelligence](https://img.shields.io/badge/Artificialintelligence-ffffff?style=for-the-badge&logo=Artiificialintelligence&logoColor=black)
 ![AutonomousDatabase](https://img.shields.io/badge/AutonomousDatabase-013243?style=for-the-badge&logo=numpy&logoColor=white)
-![Pandas](https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white)
+![Terraform](https://img.shields.io/badge/Terraform-150458?style=for-the-badge&logo=pandas&logoColor=white)
 ![Linux ](https://img.shields.io/badge/Linux-121011?style=for-the-badge&logo=Linux&logoColor=white)
-![SIEM Tools](https://img.shields.io/badge/SIEM%20Tools-FF6F00?style=for-the-badge&logoColor=white)
-![Security Operations Center](https://img.shields.io/badge/Security%20Operations%20Center-FF0000?style=for-the-badge&logoColor=white)
-![Cybersecurity](https://img.shields.io/badge/Cybersecurity-007ACC?style=for-the-badge&logoColor=white)
+![ANSIBLE](https://img.shields.io/badge/ANSIBLE%20Tools-FF6F00?style=for-the-badge&logoColor=white)
 
 
 ## 📜 Certifications
