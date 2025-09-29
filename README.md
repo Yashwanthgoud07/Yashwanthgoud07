@@ -33,10 +33,8 @@ OCI Engineer , Cloudserv systems| Linux | Terraform | | Ansible | OCI Certified 
 - **Oracle Cloud Infrastructure Multicloud Professional**
 - **Oracle Autonomous Database Cloud 2025 Certified Professional**
 - **Oracle Data Platform 2025 Certified Foundations Associate**
-- **Nano Tips For Building A Career In Cybersecurity (2024)**
-- **Cybersecurity Job Simulation (Phishing) (2024)**
-- ** Oracle cloud infrastructure fundamentals
-- ** Linux for cloud Engineers.
+- **Oracle Vector AI Search Professional**
+- **
 ---
 
 [![](https://visitcount.itsvg.in/api?id=Yashwanthgoud&icon=5&color=12)](https://visitcount.itsvg.in)
