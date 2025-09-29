@@ -10,12 +10,8 @@ OCI Engineer , Cloudserv systems| Linux | Terraform | | Ansible | OCI Certified 
 
 ## 💻 Skills
 
-![Python](https://img.shields.io/badge/Python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
-![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
 ![Oracle Cloud Infrastructure](https://img.shields.io/badge/Oraclecloudinfrastructure-F80000?style=for-the-badge&logo=oraclecloudinfrastructure&logoColor=white)
-![Anaconda](https://img.shields.io/badge/Anaconda-44A833?style=for-the-badge&logo=anaconda&logoColor=white)
-![Django](https://img.shields.io/badge/Django-092E20?style=for-the-badge&logo=django&logoColor=white)
-![Matplotlib](https://img.shields.io/badge/Matplotlib-ffffff?style=for-the-badge&logo=Matplotlib&logoColor=black)
+![Artificialintelligence](https://img.shields.io/badge/Artificialintelligence-ffffff?style=for-the-badge&logo=Artiificialintelligence&logoColor=black)
 ![NumPy](https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white)
 ![Pandas](https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white)
 ![Linux ](https://img.shields.io/badge/Linux-121011?style=for-the-badge&logo=Linux&logoColor=white)
@@ -34,7 +30,6 @@ OCI Engineer , Cloudserv systems| Linux | Terraform | | Ansible | OCI Certified 
 - **Oracle Autonomous Database Cloud 2025 Certified Professional**
 - **Oracle Data Platform 2025 Certified Foundations Associate**
 - **Oracle Vector AI Search Professional**
-- **
 ---
 
 [![](https://visitcount.itsvg.in/api?id=Yashwanthgoud&icon=5&color=12)](https://visitcount.itsvg.in)
