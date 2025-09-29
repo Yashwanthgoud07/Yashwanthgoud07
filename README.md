@@ -15,7 +15,7 @@ OCI Engineer , Cloudserv systems| Linux | Terraform | | Ansible | OCI Certified 
 ![AutonomousDatabase](https://img.shields.io/badge/AutonomousDatabase-013243?style=for-the-badge&logo=numpy&logoColor=white)
 ![Terraform](https://img.shields.io/badge/Terraform-150458?style=for-the-badge&logo=pandas&logoColor=white)
 ![Linux ](https://img.shields.io/badge/Linux-121011?style=for-the-badge&logo=Linux&logoColor=white)
-![ANSIBLE](https://img.shields.io/badge/ANSIBLE%20Tools-FF6F00?style=for-the-badge&logoColor=white)
+![ANSIBLE](https://img.shields.io/badge/ANSIBLE-FF6F00?style=for-the-badge&logoColor=white)
 
 
 ## 📜 Certifications
